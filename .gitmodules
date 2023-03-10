@@ -1,0 +1,3 @@
+[submodule "ROI/PalmSeg"]
+	path = ROI/PalmSeg
+	url = https://github.com/AngeloUNIMI/PalmSeg

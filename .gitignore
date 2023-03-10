@@ -1,0 +1,4 @@
+**/desktop.ini
+Extraction/model/*
+Extraction/package/.ipynb_checkpoints
+Extraction/package/__pycache__
