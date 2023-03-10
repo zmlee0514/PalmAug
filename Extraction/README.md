@@ -6,33 +6,33 @@
 ## Directory
 ```
 Extraction
-│  hyper-parameter search.ipynb
-│  hyper-parameter search.md
-│  recognition.ipynb
-│  recognition.md
-│  requirements.txt
-│  training.ipynb
-│  training.md
+│ hyper-parameter search.ipynb
+│ hyper-parameter search.md
+│ recognition.ipynb
+│ recognition.md
+│ requirements.txt
+│ training.ipynb
+│ training.md
 │
 ├─model
-│      augmentation-reorder-first-50.db
-│      best_params-reorder-first-50.pt
-│      best_params-reorder-third.pt
-│      PolyU-5s-Reduced_ResNeSt50d_pretrained-128emb-LMCL-Focal+Huber-1l-0.001lr-0.9mm-0l2-20e.pt
-│      ...
+│     augmentation-reorder-first-50.db
+│     best_params-reorder-first-50.pt
+│     best_params-reorder-third.pt
+│     PolyU-5s-Reduced_ResNeSt50d_pretrained-128emb-LMCL-Focal+Huber-1l-0.001lr-0.9mm-0l2-20e.pt
+│     ...
 │
 ├─package
-│      dataset.py
-│      initModel.py
-│      loss.py
-│      optunaPlot.py
-│      resnet20.py
-│      __init__.py
+│     dataset.py
+│     initModel.py
+│     loss.py
+│     optunaPlot.py
+│     resnet20.py
+│     __init__.py
 │    
 │
 └─raw
-        optuna.ipynb
-        refactor.ipynb
+      optuna.ipynb
+      refactor.ipynb
 ```
 
 ## Install
